@@ -1,0 +1,34 @@
+{
+  "tablearr": [
+    {
+      "state": "1",
+      "table_code": "fm_class_info",
+      "table_name": "班级信息表单",
+      "project_code": "zjpzkh",
+      "page_code": "class_info",
+      "table_type": "1",
+      "page_area": "P1",
+      "display_type": "1",
+      "meta_table_type": "1",
+      "parent_table_code": null,
+      "is_meta_table_type": "0",
+      "import_table_type": "1",
+      "table_in_project_code": null
+    },
+    {
+      "state": "1",
+      "table_code": "class_info",
+      "table_name": "班级信息表格",
+      "project_code": "zjpzkh",
+      "page_code": "class_info",
+      "table_type": "2",
+      "page_area": "P1",
+      "display_type": "2",
+      "meta_table_type": "1",
+      "parent_table_code": null,
+      "is_meta_table_type": "1",
+      "import_table_type": "1",
+      "table_in_project_code": null
+    }
+  ]
+}

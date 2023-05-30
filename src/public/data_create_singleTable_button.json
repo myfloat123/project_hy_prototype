@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "btn_name": "保存",
+      "btn_type": "3",
+      "table_code": "fm_class_info"
+    },
+    {
+      "btn_name": "重置",
+      "btn_type": "3",
+      "table_code": "fm_class_info"
+    },
+    {
+      "btn_name": "取消",
+      "btn_type": "3",
+      "table_code": "fm_class_info"
+    },
+    {
+      "btn_name": "查看",
+      "btn_type": "1",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "修改",
+      "btn_type": "1",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "复制",
+      "btn_type": "1",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "启用",
+      "btn_type": "1",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "禁用",
+      "btn_type": "1",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "删除",
+      "btn_type": "1",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "新增",
+      "btn_type": "2",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "批量删除",
+      "btn_type": "2",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "导入",
+      "btn_type": "2",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "导出",
+      "btn_type": "2",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "批量启用",
+      "btn_type": "2",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "批量禁用",
+      "btn_type": "2",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "复制",
+      "btn_type": "5",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "删除",
+      "btn_type": "5",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "批量编辑",
+      "btn_type": "6",
+      "table_code": "class_info"
+    },
+    {
+      "btn_name": "批量删除",
+      "btn_type": "6",
+      "table_code": "class_info"
+    }
+  ],
+  "project_code": "zjpzkh"
+}

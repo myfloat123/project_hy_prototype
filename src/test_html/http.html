@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://cdn.staticfile.org/axios/1.4.0/axios.min.js"></script>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+<script>
+
+  const http = axios.create()
+
+  http.interceptors.request.use(config => {
+    config.headers.Authorization = 'Bearer paas.sys.4.8758d5d3-c16c-4c5b-aa06-3608e19829f2'
+    return config
+  },
+    error => {
+      return Promise.reject(error)
+    }
+  )
+
+  http({
+    url: `http://training-dida.haoyuntech.com/hy-paas/paas/hy/20014/page/v1/menus/list`,
+    method: 'get'
+  }).then(res => {
+    console.log(res)
+  }).catch(err => {
+    console.log(err)
+  })
+
+</script>

@@ -1,0 +1,12 @@
+{
+  "username": "H03566",
+  "password": "v9fiBquTJhVLiiDDfgDUaA==",
+  "client_id": "client_hy_web",
+  "client_secret": "hy123456",
+  "lessee_code": "hy",
+  "app_code": "generator",
+  "pwd_encryption_type": 2,
+  "client_type": 1,
+  "grant_type": "password",
+  "scop": "all"
+}

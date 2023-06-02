@@ -1,0 +1,18 @@
+{
+  "controls_type": "4",
+  "field_size": 32,
+  "field_type": "DICT",
+  "isfixedhead": 0,
+  "isqueryfield": 0,
+  "handle_type": "1",
+  "table_code": "stu_info",
+  "is_meta_table_type": "1",
+  "is_generate_table_field": 1,
+  "field_name": "性别",
+  "field_code": "sex",
+  "fkey_table": null,
+  "fkey_field": null,
+  "fkey_display_field": null,
+  "dict_source": "dc_xingbie",
+  "project_code": "zjpzkh"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "0：女，1：男",
+  "dict_code": "dc_xingbie4",
+  "dict_name": "性别4",
+  "dictionary_instance_table": [
+    {
+      "name": "女",
+      "code": "0",
+      "text_color": "#000000",
+      "sort": "1"
+    },
+    {
+      "name": "男",
+      "code": "1",
+      "text_color": "#000000",
+      "sort": "2"
+    }
+  ],
+  "idarr": [],
+  "project_code": "zjpzkh"
+}

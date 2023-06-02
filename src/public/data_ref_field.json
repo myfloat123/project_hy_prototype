@@ -1,0 +1,18 @@
+{
+  "controls_type": "1",
+  "field_size": 32,
+  "field_type": "REF",
+  "isfixedhead": 0,
+  "isqueryfield": 0,
+  "handle_type": "1",
+  "table_code": "stu_info",
+  "is_meta_table_type": "1",
+  "is_generate_table_field": 1,
+  "field_name": "班级名称",
+  "field_code": "class_name",
+  "dict_source": null,
+  "fkey_table": "class_info",
+  "fkey_field": "1663742032490795009",
+  "fkey_display_field": "1663742315438542849",
+  "project_code": "zjpzkh"
+}
